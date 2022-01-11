@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+.bg-dark{
+    background-color: darkolivegreen !important;
+}
+.carousel-container{
+    max-height: 500px;
+}
+.carousel-item{
+    max-height: 500px;
+}
+.carousel-caption{
+    background-color: darksalmon;
+}
+.text-container{
+    width: 1000px;
+}
+.footer{
+    background-color: darkolivegreen !important;
+    color: #fff;
+    height: 60px;
+}
+.card-footer-ab{
+    height: 60px;
+}
+
+.btn-primary{
+    background-color: transparent;
+    border-color: darkslategray;
+    color: darkslategray;
+}
+.btn-primary:hover, .btn-primary:visited, .btn-primary:focus{
+    background-color: darkslategray;
+    border-color: darkslategray;
+}
