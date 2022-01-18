@@ -33,3 +33,8 @@
     background-color: darkslategray;
     border-color: darkslategray;
 }
+
+.accordion-button:not(.collapsed){
+    color: #fff;
+    background-color: darksalmon;
+}
